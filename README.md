@@ -1,6 +1,6 @@
 # FantasticHUD
 
-Once you download the HUd, there will be two files,
+Once you download the HUD, there will be two files,
 the one will have "4x3" in brackets and the other will have "16x9"
 thses are for the aspect ratios, just drag and drop the one in
 your "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"
