@@ -8,7 +8,7 @@ corresponding aspect ratio to:
 "C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom"
 Then you should be set (:
 
-If the HUD looks wierd try the other aspect ratio.
+If the HUD looks wierd try the HUD file.
 
 I don't know if this HUD will work on MacOS, or Linux, so try at your own risk.
 
