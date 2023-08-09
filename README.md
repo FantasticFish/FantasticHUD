@@ -11,6 +11,3 @@ Then you should be set (:
 If the HUD looks wierd try the HUD file.
 
 I don't know if this HUD will work on MacOS, or Linux, so try at your own risk.
-
-If you have any issues, or suggsetions for changes you can message me at 
-kaydenlane02@gmail.com
